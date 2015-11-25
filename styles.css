@@ -1,0 +1,58 @@
+.title_img{
+	margin-top: -1%;
+	margin-left: -1%;
+	margin-right: -1%;
+}
+.icon_comp{
+	padding-left: 15%;
+	position:absolute;
+	top:2%;
+}
+.pins1{
+	padding-left: 33%;
+	position: absolute;
+	top:12%;
+	color: "white";
+	font-family: cursive;
+}
+.pins2{
+	padding-left: 47%;
+	position: absolute;
+	top:12%;
+	color: "white";
+	font-family: cursive;
+}
+.pins3{
+	padding-left: 57%;
+	position: absolute;
+	top:12%;
+	color: "white";
+	font-family: cursive;
+}
+.login{
+	position: absolute; 
+	top :5%;
+	padding-left: 87%;
+}
+/*.pic{
+	position: absolute; 
+	top :3.5%;
+	padding-left: 62%;
+	padding-right:1%;
+}*/
+.sign_up{
+	position: absolute; 
+	top :14%;
+	padding-left: 90%;
+}
+/*.body{
+	background 
+}*/
+
+html { 
+ background: url(9.jpg)  center center fixed; 
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
