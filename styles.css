@@ -1,38 +1,27 @@
-.title_img{
-	margin-top: -1%;
-	margin-left: -1%;
-	margin-right: -1%;
+.titles_img{
+	position: absolute;
+	top :0%;
 }
 .icon_comp{
 	padding-left: 15%;
 	position:absolute;
 	top:2%;
 }
-.pins1{
-	padding-left: 33%;
-	position: absolute;
-	top:12%;
-	color: "white";
-	font-family: cursive;
+.mainbody{
+	
+	width:100%;
 }
-.pins2{
-	padding-left: 47%;
+.pins{
+	padding-left: 28%;
 	position: absolute;
-	top:12%;
-	color: "white";
-	font-family: cursive;
-}
-.pins3{
-	padding-left: 57%;
-	position: absolute;
-	top:12%;
-	color: "white";
+	top:10%;
+	color: "black";
 	font-family: cursive;
 }
 .login{
 	position: absolute; 
-	top :5%;
-	padding-left: 87%;
+	top :4%;
+	padding-left: 91%;
 }
 /*.pic{
 	position: absolute; 
@@ -42,17 +31,18 @@
 }*/
 .sign_up{
 	position: absolute; 
-	top :14%;
-	padding-left: 90%;
+	top :11%;
+	padding-left: 92%;
 }
-/*.body{
-	background 
-}*/
-
-html { 
+.body{
+	position: absolute;
+	top:119%;
+	padding-left:64%;
+}
+/*html { 
  background: url(9.jpg)  center center fixed; 
  -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
  background-size: cover;
-}
+}*/
